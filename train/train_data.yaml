@@ -1,0 +1,11 @@
+path: train_data
+train: images/train
+val: images/val
+test: 
+
+names:
+  0: long_pointer
+  1: short_pointer
+
+# 添加类别数量
+nc: 2
